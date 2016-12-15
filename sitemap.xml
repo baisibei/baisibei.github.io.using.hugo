@@ -3,23 +3,18 @@
   
   <url>
     <loc>http://baisibei.github.io/</loc>
-    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://baisibei.github.io/posts/newest/</loc>
-    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
+    <loc>http://baisibei.github.io/posts/initial/</loc>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://baisibei.github.io/posts/middle/</loc>
-    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://baisibei.github.io/posts/oldest/</loc>
-    <lastmod>2014-03-27T00:00:00+00:00</lastmod>
+    <loc>http://baisibei.github.io/posts/sample/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

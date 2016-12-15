@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fun on 果果的成长历程</title>
-    <link>http://baisibei.github.io/categories/fun/</link>
+    <link>http://localhost:1313/categories/fun/</link>
     <description>Recent content in Fun on 果果的成长历程</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://baisibei.github.io/categories/fun/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/fun/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Just another sample post</title>
-      <link>http://baisibei.github.io/posts/newest/</link>
-      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Just another sample post1</title>
+      <link>http://localhost:1313/posts/sample/</link>
+      <pubDate>Sun, 29 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://baisibei.github.io/posts/newest/</guid>
+      <guid>http://localhost:1313/posts/sample/</guid>
       <description>
 
-&lt;h2 id=&#34;first-heading:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;First Heading&lt;/h2&gt;
+&lt;h2 id=&#34;first-heading:7cce010dc015a937e6841b4e289c7b7d&#34;&gt;First Heading&lt;/h2&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, consequatur aspernatur omnis iste. Voluptates, id inventore ea natus ab sed amet ipsa ratione sunt dignissimos. Soluta illum aliquid repellendus recusandae.&lt;/p&gt;
 
-&lt;h3 id=&#34;sub:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;Sub&lt;/h3&gt;
+&lt;h3 id=&#34;sub:7cce010dc015a937e6841b4e289c7b7d&#34;&gt;Sub&lt;/h3&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, perferendis saepe voluptatem a nesciunt architecto voluptas deleniti dolor tempora quasi quidem odit rem fugit magnam minima quam dolores vel id?&lt;/p&gt;
 
-&lt;h2 id=&#34;conclusion:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;h2 id=&#34;conclusion:7cce010dc015a937e6841b4e289c7b7d&#34;&gt;Conclusion&lt;/h2&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, numquam ipsa ad! Quasi, deleniti quae sint consequatur error corporis dicta inventore alias soluta dignissimos? Molestias, quia ab deserunt repellat ut.&lt;/p&gt;
 </description>

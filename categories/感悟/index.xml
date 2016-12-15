@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>感悟 on 果果的成长历程</title>
+    <link>http://baisibei.github.io/categories/%E6%84%9F%E6%82%9F/</link>
+    <description>Recent content in 感悟 on 果果的成长历程</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://baisibei.github.io/categories/%E6%84%9F%E6%82%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>第一篇（待写）</title>
+      <link>http://baisibei.github.io/posts/initial/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://baisibei.github.io/posts/initial/</guid>
+      <description>
+
+&lt;h2 id=&#34;标题一:44fcfa2b740add29abb7bbf73c6060e9&#34;&gt;标题一&lt;/h2&gt;
+
+&lt;p&gt;第一篇文章，敬请期待&lt;/p&gt;
+
+&lt;h3 id=&#34;子标题:44fcfa2b740add29abb7bbf73c6060e9&#34;&gt;子标题&lt;/h3&gt;
+
+&lt;h2 id=&#34;小结:44fcfa2b740add29abb7bbf73c6060e9&#34;&gt;小结&lt;/h2&gt;
+
+&lt;p&gt;^O^&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
